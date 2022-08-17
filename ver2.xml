@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2022-08-15T14:37:38+03:00">
+<shop><name>ООО "КИП-ПРОФИТ"
+</name><company>ООО "КИП-ПРОФИТ"</company><url>https://online.moysklad.ru/</url>
+<platform>МойСклад</platform><currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="1" parentId="2">Измерительный инструмент</category><category id="2" parentId="3">Инструменты</category><category id="3" parentId="4">Строительство и ремонт</category>
+<category id="4" parentId="5">Дом и дача</category><category id="5">Все товары</category><category id="6" parentId="7">Аптечки</category><category id="7" parentId="8">Медицинские приборы и изделия</category>
+<category id="8" parentId="9">Аптека</category><category id="9" parentId="5">Красота и здоровье</category></categories>
+<offers>
+<offer id="ADA-ARMOMINIBasicEdition-А00582"><name>Лазерный уровень ADA ARMO MINI Basic Edition</name><vendor>ADA</vendor><price>2490</price><currencyId>RUB</currencyId><categoryId>1</categoryId><description>
+</description><country_of_origin>Китай</country_of_origin><barcode>4627151051062</barcode><url>https://online.moysklad.ru/</url>
+</offer>
+</offers></shop></yml_catalog>
